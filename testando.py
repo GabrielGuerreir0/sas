@@ -1,7 +1,7 @@
 a = 1
 b = 9
 c = a + b
-d = "dacu"
+d = "embu"
 
 
 print(c)
