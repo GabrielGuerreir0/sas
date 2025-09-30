@@ -3,7 +3,9 @@ b = 9
 c = a + b
 d = c
 
-d = "labubu"
+
+d = "bucetao"
+
 
 
 print(c)
